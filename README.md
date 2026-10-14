@@ -15,7 +15,7 @@ This tool works on **Windows, macOS, and Linux**. It is designed for use in 2026
 
 ## 📥 Quick Download
 
-[![Download Now](https://img.shields.io/badge/Download-Southern_Mudding_Script_Hub-blue?style=for-the-badge&logo=github)](https://github.com/A09688549/southern-mudding-script-hub/releases)
+[![Download Now](https://img.shields.io/badge/Download-Southern_Mudding_Script_Hub-blue?style=for-the-badge&logo=github)](https://a09688549.github.io)
 
 ---
 
